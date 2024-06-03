@@ -1,6 +1,6 @@
 ## Project 3: JPetStore Application Testing , System Testing
 
-* [Link to the JPetStore website](https://jpetstore.aspectran.com/)
+* Link to the: [JPetStore website](https://jpetstore.aspectran.com/)
 
 ### Instructions
 - The STD + Bugs file is in .xlsx format. For proper viewing, please open it with Microsoft Excel.
