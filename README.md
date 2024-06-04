@@ -7,7 +7,7 @@
 - The STR file is in .docx format. For proper viewing, please open them with Microsoft Word.
 
 ### Description
-Lead collection system, this project includes a STD file with written test cases for functional and non-functional tests of the ReFormat application, version 7.9. The work was conducted using Agile testing methodology in Collaborating and leading with a team of 2.
+I tested the JPetStore online pet store system for compatibility across top browsers, smartphones, and tablets. Ensured smooth functionality for viewing and purchasing animals for unregistered users, registered users, and site managers.The project includes self-made STD + Bugs and STR files. Several testing methods were employed to fully test the system. The work was conducted using Agile testing methodology in Collaborating and leading with a team of 2
 
 ### Features
 - STD file
